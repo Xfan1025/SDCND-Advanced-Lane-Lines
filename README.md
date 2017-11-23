@@ -7,8 +7,10 @@ You're reading this project! and here is a link to my [project code in Jupyter N
 
 This project is ongoing and will be updated frequently.
 
+
+### Test video
 Video containing sliding windows generated for debug.
 
 
-[![IMAGE](https://img.youtube.com/vi/EYq01Bz63U4/0.jpg)](https://www.youtube.com/watch?v=EYq01Bz63U4)
+[![IMAGE](https://img.youtube.com/vi/lk1iZ9x1hrc/0.jpg)](https://youtu.be/lk1iZ9x1hrc)
 
