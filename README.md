@@ -1,7 +1,7 @@
 # Advanced Lane Finding
 
 <p align="center">
- <a href="https://youtu.be/SZIahz1Dr5M"><img src="./asset/overview.gif" alt="Overview" width="50%" height="50%"></a>
+ <a href="https://youtu.be/0b0OshpxZiM"><img src="./asset/output.gif" alt="Overview" width="50%" height="50%"></a>
  <br>Click for full video
 </p>
 
@@ -284,20 +284,20 @@ Here is one example of final output on one test image:
 
 This is the result on the 6 test images:
 
-![img](./asset/output.png)
+![img](./output_images/output.png)
 
 ## Video
 
 This is my final output for the project video:
 
 <p align="center">
- <a href="https://youtu.be/SZIahz1Dr5M"><img src="./asset/overview.gif" alt="Overview" width="50%" height="50%"></a>
+ <a href="https://youtu.be/0b0OshpxZiM"><img src="./asset/output.gif" alt="Overview" width="50%" height="50%"></a>
  <br>Click for full video
 </p>
 
 
 ### Discussion
 
-#### Briefly discuss any problems / issues you faced in your implementation of this project.  Where will your pipeline likely fail?  What could you do to make it more robust?
+
 I had some difficulties in tuning the thresholds to fit the video at the begining. Also, I spent dedicated effort to think how to handle the case when the detection was not accurate. So for my pipeline, it will most likely fail when lightness of the image changes. Some fellow students mentioned some excellent tricks to handle those cases but I feel those approaches with purely computer vision are still limited.
 We should deploy ML/DL into the pipeline too which I will try them out soon!
