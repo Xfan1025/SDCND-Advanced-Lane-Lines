@@ -278,8 +278,8 @@ output_video = 'output_images/' + output_video_name +'.mp4'
 Here is one example of final output on one test image:
 
 <p align="center">
-     <img src="./output_images/test2.jpg" alt="output_example" width="60%" height="60%">
-     <br>Qualitative result for test2.jpg
+     <img src="./output_images/output-4.png" alt="output_example" width="80%" height="60%">
+     <br>Result for test4.jpg
 </p>
 
 This is the result on the 6 test images:
