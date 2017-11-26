@@ -9,12 +9,11 @@
 
 **Advanced Lane Finding Project**
 
-
 Table of Contents
 =================
 
    * [Goal](#goal)
-   * [Files & Code](#files-&amp;-code)
+   * [Code](#code)
    * [Steps](#steps)
       * [Camera Calibration](#camera-calibration)
       * [Distortion Correction](#distortion-correction)
@@ -24,7 +23,7 @@ Table of Contents
       * [Perspective Transform](#perspective-transform)
       * [Lane Lines Pixels Detection](#lane-lines-pixels-detection)
           * [Peak Analysis](#peak-analysis)
-          * [Sliding Window](#slding-window)
+          * [Sliding Window](#sliding-window)
       * [Curvature Calculation](#curvature-calculation)
    * [Pipeline](#pipeline)
    * [Result](#result)
@@ -47,7 +46,7 @@ The goals / steps of this project are the following:
 * Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
 
 
-# Files & Code
+# Code
 
 You are reading this project! Please find the code and exploration in this [Jupyter notebook]().
 
