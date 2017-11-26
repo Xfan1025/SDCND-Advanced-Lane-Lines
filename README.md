@@ -1,7 +1,7 @@
 # Advanced Lane Finding
 
 <p align="center">
- <a href="https://youtu.be/0b0OshpxZiM"><img src="./asset/output.gif" alt="Overview" width="50%" height="50%"></a>
+ <a href="https://youtu.be/I-0EWYfeKHk"><img src="./asset/output.gif" alt="Overview" width="50%" height="50%"></a>
  <br>Click for full video
 </p>
 
@@ -290,7 +290,7 @@ This is the result on the 6 test images:
 This is my final output for the project video:
 
 <p align="center">
- <a href="https://youtu.be/0b0OshpxZiM"><img src="./asset/output.gif" alt="Overview" width="50%" height="50%"></a>
+ <a href="https://youtu.be/I-0EWYfeKHk"><img src="./asset/output.gif" alt="Overview" width="50%" height="50%"></a>
  <br>Click for full video
 </p>
 
